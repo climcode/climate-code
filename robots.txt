@@ -1,0 +1,1 @@
+Sitemap: https://climcode.github.io/climate-code/sitemap.xml
